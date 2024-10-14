@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://miborawanuhi.pages.dev/sitemap.xml
